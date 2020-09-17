@@ -1,15 +1,16 @@
-public void setquesNo()
-	{
-		
-	}
+public int getquesNo()
+{
+	return quesNo;
 	
-	public void set category()
-	{
-		
-	}
+}
+
+public String getcategory()
+{
+	return category;
 	
-	public void set text()
-	{
-		
-	}
+}
 	
+public String gettext()
+{
+	return text;
+}	
