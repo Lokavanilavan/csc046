@@ -1,17 +1,15 @@
-public examples
-{
-	public void getquesNo()
+public void setquesNo()
 	{
-		
+		this.quesNo = quesNo;
 	}
 	
-	public void getcategory()
+	public void set category()
 	{
-		
+	  this.category = category;	
 	}
 	
-	public void gettext()
+	public void set text()
 	{
-		
+		this.text = text;
 	}
-}
+	
